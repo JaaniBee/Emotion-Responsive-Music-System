@@ -31,3 +31,10 @@ share/python-wheels/
 .idea/
 *.swp
 *.swo
+
+# Temporary Tools
+gh.zip
+gh_cli/
+device_auth.txt
+out.log
+github_login.py
